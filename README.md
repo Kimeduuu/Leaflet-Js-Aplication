@@ -1,14 +1,14 @@
-### Project Idea
+# Project Idea
 
 In this project I make a Leaflet aplication, with my knowledge...
 
 ## Features:
 
-# Marker Creation
+### Marker Creation
 
 I make a feature about creating markers, I use an interface and make the list using a map in code, creating the new array with the new marker (the user can create this using an input and button)
 
-# General
+### General
 
 In this archive I use Chakra Ui...
 
