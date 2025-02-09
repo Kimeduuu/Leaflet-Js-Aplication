@@ -1,4 +1,19 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+### Project Idea
+
+In this project I make a Leaflet aplication, with my knowledge...
+
+## Features:
+
+# Marker Creation
+
+I make a feature about creating markers, I use an interface and make the list using a map in code, creating the new array with the new marker (the user can create this using an input and button)
+
+# General
+
+In this archive I use Chakra Ui...
+
+
+
 
 ## Getting Started
 
